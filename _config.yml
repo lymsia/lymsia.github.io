@@ -9,12 +9,8 @@ permalink:        pretty
 title:            Roy Wijaya
 tagline:          'A Jekyll theme'
 description:      'A simple software engineer whos trying to understand on this never ending journey'
-url:              http://hyde.getpoole.com
+url:              https://lymsia.github.io
 baseurl:          /
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
 
 paginate:         5
 
