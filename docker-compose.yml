@@ -1,7 +1,7 @@
 version: '3.7'
 
 services:
-  jekyll:
+  web:
     container_name: myweb
     image: jekyll/jekyll:latest
     command: jekyll serve --watch --force_polling --verbose
