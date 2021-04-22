@@ -10,7 +10,7 @@ title:            Roy Wijaya
 tagline:          'Software Engineer'
 description:      'A simple software engineer'
 url:              https://lymsia.github.io
-baseurl:          /
+baseurl:          '/'
 
 paginate:         5
 
